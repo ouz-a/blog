@@ -1,4 +1,0 @@
-[submodule "ouz-a-blog/public"]
-	path = ouz-a-blog/public
-	url = https://github.com/ouz-a/ouz-a.github.io
-	branch = main
