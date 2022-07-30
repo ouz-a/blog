@@ -1259,8 +1259,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-quote-right:before {
   content: "\f10e"; }
 
-.fa-spinner:before {
-  content: "\f110"; }
 
 .fa-circle:before {
   content: "\f111"; }
