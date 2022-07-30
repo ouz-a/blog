@@ -1,0 +1,27 @@
+[submodule "ouz-a-blog/ouz-a.github.io"]
+	path = ouz-a-blog/ouz-a.github.io
+	url = https://github.com/ouz-a/ouz-a.github.io
+	branch = main
+[submodule "ouz-a-blog/public"]
+	path = ouz-a-blog/public
+	url = https://github.com/ouz-a/ouz-a.github.io
+	branch = main
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "ouz-a-blog/themes/paper"]
+	path = ouz-a-blog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "ouz-a-blog/themes/themes/paper"]
+	path = ouz-a-blog/themes/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "ouz-a-blog/themes/hugo-coder"]
+	path = ouz-a-blog/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "ouz-a-blog/themes/mini"]
+	path = ouz-a-blog/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "public"]
+	path = public
+	url = https://github.com/ouz-a/ouz-a.github.io
+	branch = main
